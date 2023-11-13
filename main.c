@@ -3,7 +3,7 @@
 
 int main()
 {
-    // Ýki sayýyý Toplamak için gerekli algoritma
+    // ALGORITHM THAT GIVES THE SUM OF TWO NUMBERS
 
     int sayi_1 ,sayi_2,toplam = 0;
 
